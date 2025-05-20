@@ -28,3 +28,33 @@ This project implements a Tax Loss Harvesting tool that allows users to simulate
 1. Clone the repository:
    ```sh
  https://github.com/tanishka098/assignments-by-KoinX.git
+
+
+ 2. Install dependencies:
+
+   ```sh
+   npm install
+   # or
+   yarn install
+   ```
+
+3. Start the development server:
+
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. Open your browser and navigate to:
+   ```
+   http://localhost:8080
+   ```
+
+## Features
+
+- **Capital Gains Overview**: See your current capital gains tax liability
+- **Tax Loss Harvesting Simulation**: Select assets to sell and see how it affects your tax situation
+- **Detailed Holdings Table**: View all your cryptocurrency holdings with profit/loss information
+- **Interactive UI**: Simple checkboxes to select assets for simulation
+- **Responsive Design**: Works on all device sizes
