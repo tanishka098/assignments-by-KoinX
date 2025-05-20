@@ -1,6 +1,6 @@
 # Tax Loss Harvesting - KoinX Assignment
 
-![KoinX Logo](/lovable-uploads/07b9b99a-8cf0-4ed5-a6ce-441d1cbcef49.png)
+![Application Screenshot](public/images/harvesting-screenshot.jpg)
 
 ## Project Overview
 
@@ -27,4 +27,4 @@ This project implements a Tax Loss Harvesting tool that allows users to simulate
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Ankit389/assignment--koinx.git
+ https://github.com/tanishka098/assignments-by-KoinX.git
